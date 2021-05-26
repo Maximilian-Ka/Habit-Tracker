@@ -13,23 +13,25 @@ Record things like:
   <li>To-Do's</li>
   <li>Events and other social interactions</li>
 </ul>
-## Aimed for features:
-### Main
+
+<h2> Aimed for features: </h2>
+
+<h3> Main </h3>
 <ul>
-<li>**Customizable Interface** - record what matters to you/li>
-<li>**Fast** recording of daily activities</li>
+<li><strong>Customizable Interface</strong> - record what matters to you/li>
+<li><strong>Fast</strong> recording of daily activities</li>
 <li>To-Do List</li>
-<li>Activity Categories for **out-of-the-box structure**</li>
+<li>Activity Categories for <strong>out-of-the-box structure</strong></li>
 <li>Checkboxes for quick records of for example daily mood or perceived productivity</li>
 </ul>
 
-### Additional
+<h3> Additional </h3>
 <ul>
 <li>Dashboard for analysis</li>
 
 </ul>
 
-## (Potential) Tech Stack
+<h2> (Potential) Tech Stack </h2>
 Backend: Flask
 
 Frontend: VueJS
